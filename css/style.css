@@ -46,7 +46,6 @@ a {
 /* Header */
 .menu-list {
     color: #2e2f42;
-    transition: color 0.3s ease;
     font-weight: 500;
     letter-spacing: 0.02em;
     line-height: 1.5;
